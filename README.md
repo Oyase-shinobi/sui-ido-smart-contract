@@ -14,7 +14,7 @@ The IDO contract has the following features:
 ## Usage
 
 ### Creating an IDO
-
+   
 To create an IDO, call the **create_ido** function with the following parameters:
 
 - **start_time**: The start time of the IDO, in Unix timestamp format.
